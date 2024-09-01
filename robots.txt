@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://actoeus.github.io/sitemap.html.gz
+Sitemap: https://actoeus.github.io/app/sitemap.html.gz
+Sitemap: https://actoeus.github.io/assets/sitemap.html.gz
+Sitemap: https://actoeus.github.io/css/sitemap.html.gz
+Sitemap: https://actoeus.github.io/includes/sitemap.html.gz
+Sitemap: https://actoeus.github.io/item/sitemap.html.gz
+Sitemap: https://actoeus.github.io/src/sitemap.html.gz
